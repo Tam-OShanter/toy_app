@@ -28,10 +28,10 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'coffee-script-source', '1.8.0'
 
 # Use this to bootstrap tools and layouts
-gem 'bootstrap-sass'
+#gem 'bootstrap-sass'
 
 # Use Devise for user Login and Sign Up
-gem 'devise', '~> 3.1.0.rc2'
+#gem 'devise', '~> 3.1.0.rc2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
